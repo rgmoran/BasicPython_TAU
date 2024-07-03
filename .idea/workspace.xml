@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abf59269-e845-4e82-aca8-92b5f7454cf3" name="Changes" comment="using a input function">
+    <list default="true" id="abf59269-e845-4e82-aca8-92b5f7454cf3" name="Changes" comment="second">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,15 +48,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Basic2.executor": "Run",
-    "Python.BasicVariables.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.BasicVariables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;continuousbasic&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Basic2">
+}</component>
+  <component name="RunManager" selected="Python.BasicVariables">
     <configuration name="Basic2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BasicPython_TAU" />
       <option name="ENV_FILES" value="" />
@@ -103,8 +102,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Basic2" />
         <item itemvalue="Python.BasicVariables" />
+        <item itemvalue="Python.BasicVariables" />
+        <item itemvalue="Python.Basic2" />
         <item itemvalue="Python.BasicVariables" />
       </list>
     </recent_temporary>
@@ -157,15 +157,7 @@
       <option name="project" value="LOCAL" />
       <updated>1719953352588</updated>
     </task>
-    <task id="LOCAL-00005" summary="using a input function">
-      <option name="closed" value="true" />
-      <created>1719955329702</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1719955329702</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,19 +180,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -209,7 +189,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="second" />
-    <MESSAGE value="using a input function" />
-    <option name="LAST_COMMIT_MESSAGE" value="using a input function" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
   </component>
 </project>
