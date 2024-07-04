@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abf59269-e845-4e82-aca8-92b5f7454cf3" name="Changes" comment="simple calculator using if conditional">
+    <list default="true" id="abf59269-e845-4e82-aca8-92b5f7454cf3" name="Changes" comment="using loops">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -241,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720032691110</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="using loops">
+      <option name="closed" value="true" />
+      <created>1720101972449</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720101972449</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,6 +312,7 @@
     <MESSAGE value="second" />
     <MESSAGE value="examples of args and kwargs" />
     <MESSAGE value="simple calculator using if conditional" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple calculator using if conditional" />
+    <MESSAGE value="using loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="using loops" />
   </component>
 </project>
