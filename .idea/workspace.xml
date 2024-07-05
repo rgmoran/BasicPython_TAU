@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abf59269-e845-4e82-aca8-92b5f7454cf3" name="Changes" comment="implements List and Dictionary" />
+    <list default="true" id="abf59269-e845-4e82-aca8-92b5f7454cf3" name="Changes" comment="adding Tuples">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -294,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720211440718</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="adding Tuples">
+      <option name="closed" value="true" />
+      <created>1720211917085</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1720211917085</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,6 +371,7 @@
     <MESSAGE value="while and for examples" />
     <MESSAGE value="using control statament to loops" />
     <MESSAGE value="implements List and Dictionary" />
-    <option name="LAST_COMMIT_MESSAGE" value="implements List and Dictionary" />
+    <MESSAGE value="adding Tuples" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding Tuples" />
   </component>
 </project>
