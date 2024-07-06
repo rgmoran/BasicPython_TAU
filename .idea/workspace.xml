@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abf59269-e845-4e82-aca8-92b5f7454cf3" name="Changes" comment="using loops">
+    <list default="true" id="abf59269-e845-4e82-aca8-92b5f7454cf3" name="Changes" comment="adding Tuples">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,17 +33,17 @@
     &quot;assignee&quot;: &quot;rgmoran&quot;
   }
 }</component>
-  <component name="GitHubPullRequestState"><![CDATA[{
-  "prStates": [
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
     {
-      "id": {
-        "id": "PR_kwDOMRL9gs50WwrI",
-        "number": 4
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOMRL9gs50WwrI&quot;,
+        &quot;number&quot;: 4
       },
-      "lastSeen": 1720029663236
+      &quot;lastSeen&quot;: 1720029663236
     }
   ]
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/rgmoran/BasicPython_TAU.git&quot;,
@@ -72,13 +72,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Basic3.executor": "Run",
+    "Python.BasicStructures.executor": "Run",
     "Python.BasicVariables.executor": "Run",
     "Python.calc.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "continuousbasic"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Basic3">
+  <component name="RunManager" selected="Python.BasicStructures">
     <configuration name="Basic2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BasicPython_TAU" />
       <option name="ENV_FILES" value="" />
@@ -115,6 +116,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Basic3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BasicStructures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BasicPython_TAU" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/BasicStructures.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BasicStructures" />
         <item itemvalue="Python.Basic3" />
         <item itemvalue="Python.calc" />
         <item itemvalue="Python.BasicVariables" />
         <item itemvalue="Python.Basic2" />
-        <item itemvalue="Python.BasicVariables" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +272,39 @@
       <option name="project" value="LOCAL" />
       <updated>1720101972449</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="while and for examples">
+      <option name="closed" value="true" />
+      <created>1720103839467</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720103839467</updated>
+    </task>
+    <task id="LOCAL-00009" summary="using control statament to loops">
+      <option name="closed" value="true" />
+      <created>1720106716082</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1720106716082</updated>
+    </task>
+    <task id="LOCAL-00010" summary="implements List and Dictionary">
+      <option name="closed" value="true" />
+      <created>1720211440718</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1720211440718</updated>
+    </task>
+    <task id="LOCAL-00011" summary="adding Tuples">
+      <option name="closed" value="true" />
+      <created>1720211917085</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1720211917085</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,6 +368,10 @@
     <MESSAGE value="examples of args and kwargs" />
     <MESSAGE value="simple calculator using if conditional" />
     <MESSAGE value="using loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="using loops" />
+    <MESSAGE value="while and for examples" />
+    <MESSAGE value="using control statament to loops" />
+    <MESSAGE value="implements List and Dictionary" />
+    <MESSAGE value="adding Tuples" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding Tuples" />
   </component>
 </project>
