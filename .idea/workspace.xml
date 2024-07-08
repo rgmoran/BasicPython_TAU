@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abf59269-e845-4e82-aca8-92b5f7454cf3" name="Changes" comment="adding set data structure">
+    <list default="true" id="abf59269-e845-4e82-aca8-92b5f7454cf3" name="Changes" comment="using CRUD in List structure">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -312,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720213018467</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="using CRUD in List structure">
+      <option name="closed" value="true" />
+      <created>1720228516022</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1720228516022</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -381,6 +389,7 @@
     <MESSAGE value="implements List and Dictionary" />
     <MESSAGE value="adding Tuples" />
     <MESSAGE value="adding set data structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding set data structure" />
+    <MESSAGE value="using CRUD in List structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="using CRUD in List structure" />
   </component>
 </project>
